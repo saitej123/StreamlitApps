@@ -1,3 +1,2 @@
 # Streamlit-Apps
- EDA Analysis
- Model build using Pycaret
+ EDA Analysis  and Model building using Pycaret
