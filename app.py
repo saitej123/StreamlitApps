@@ -5,8 +5,8 @@
 import os
 import numpy as np
 import pandas as pd
-from pycaret.classification import *
-from pycaret.regression import *
+#from pycaret.classification import *
+#from pycaret.regression import *
 from joblib import load
 import streamlit as st
 import _pickle as pickle
