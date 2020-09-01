@@ -11,7 +11,6 @@ from joblib import load
 import streamlit as st
 import _pickle as pickle
 from pprint import pformat
-from pycaret.regression import *
 from PIL import Image
 import markdown
 import matplotlib.pyplot as plt
