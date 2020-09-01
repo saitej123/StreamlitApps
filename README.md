@@ -1,2 +1,3 @@
 # Streamlit-Apps
- Streamlit Data explorer
+ EDA Analysis
+ Model build using Pycaret
