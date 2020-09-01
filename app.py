@@ -14,8 +14,6 @@ from pprint import pformat
 from pycaret.regression import *
 from PIL import Image
 import markdown
-import dabl
-import io
 import matplotlib.pyplot as plt
 import seaborn as sns
 from IPython.display import display, HTML
